@@ -39,7 +39,7 @@ This Docker image adapts the [GliderLabs Registrator](https://github.com/gliderl
           "memory": 80,
           "name": "registrator",
           "cpu": 10,
-          "image": "dwolla/ecs-registrator:latest"
+          "image": "jank1310/ecs-registrator:latest"
         }
       ],
       "volumes": [
